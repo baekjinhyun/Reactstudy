@@ -1,5 +1,5 @@
 ## Selfstudy 
-이 프로젝트는 react selfstudy 목적이다. 
+이 프로젝트는 react selfstudy 목적으로 만들어진 고객 관리 시스템이다.  
 
 
 # Getting Started with Create React App
